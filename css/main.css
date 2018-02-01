@@ -86,3 +86,7 @@ input{
 	width:300px !important;
 	border-radius: 5s% !important;
 }
+
+.tutorialLink{
+	margin-top:-10%;
+}
